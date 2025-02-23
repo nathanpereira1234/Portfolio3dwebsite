@@ -28,19 +28,19 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-  Hello! I'm Nathan Pereira, a Tech Evangelist and hands-on Software Engineer.  
-  I specialize in delivering impactful solutions through rapid iteration, scalability-focused design, and seamless integration of cutting-edge technologies like Generative AI and large language models (LLMs).  
+              Hello! I&apos;m Shivam Sharma, a Tech Evangelist and hands-on Software Engineer.  
+              I specialize in delivering impactful solutions through rapid iteration, scalability-focused design, and seamless integration of cutting-edge technologies like Generative AI and large language models (LLMs).  
 
   I drive strategic initiatives that align with company vision and deliver measurable business impact. I excel at bringing together top talent across engineering, AI, and data science to craft scalable systems, setting new benchmarks in performance and innovation.  
 
-  I've been recognized for translating complex ideas into finished products. My passion lies in creating solutions that bridge technical excellence with tangible results, whether in startups or global enterprises.  
+  I&apos;ve been recognized for translating complex ideas into finished products. My passion lies in creating solutions that bridge technical excellence with tangible results, whether in startups or global enterprises.  
 
   <br className="sm:block hidden" />  
 
   <strong>Core strengths:</strong> Generative AI, LLMs, Architecture and Design of Distributed Systems, Scalability and Resiliency, API Design, Machine Learning Applications, Mobile Development, Security & Cryptography.  
 
-  <strong>Languages:</strong> Java, Swift, C, C++, Python, Kotlin.  
-</div>
+          <strong>Languages:</strong> Java, Swift, C, C++, Python, Kotlin.  
+           </div>
         <div className="w-fit break-words">
           <Link
             href="mailto:pereiranathan501@gmail.com"
