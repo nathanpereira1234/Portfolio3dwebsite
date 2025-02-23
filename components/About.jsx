@@ -28,27 +28,28 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Hello! I&apos;m Shivam Sharma, a passionate web developer and problem
-          solver. Currently, I&apos;m the Tech Team Lead at GDSC MVJCE, and
-          I&apos;m pursuing a B.E. degree in Computer Science and Engineering at
-          MVJ College Of Engineering in Bengaluru, India, with an expected
-          graduation year of 2025. I&apos;m a software developer with experience
-          in TypeScript, TailwindCSS, and JavaScript. I specialize in frameworks
-          such as React, Node.js, Next.js, React-Three-Fiber, and Three.js. My
-          knowledge extends to fundamental data structures and algorithms,
-          making me well-versed in frontend web development.
-          <br className="sm:block hidden" />
-          Let&apos;s collaborate to bring your ideas to life!
-        </div>
+  Hello! I'm Nathan Pereira, a Tech Evangelist and hands-on Software Engineer.  
+  I specialize in delivering impactful solutions through rapid iteration, scalability-focused design, and seamless integration of cutting-edge technologies like Generative AI and large language models (LLMs).  
+
+  I drive strategic initiatives that align with company vision and deliver measurable business impact. I excel at bringing together top talent across engineering, AI, and data science to craft scalable systems, setting new benchmarks in performance and innovation.  
+
+  I've been recognized for translating complex ideas into finished products. My passion lies in creating solutions that bridge technical excellence with tangible results, whether in startups or global enterprises.  
+
+  <br className="sm:block hidden" />  
+
+  <strong>Core strengths:</strong> Generative AI, LLMs, Architecture and Design of Distributed Systems, Scalability and Resiliency, API Design, Machine Learning Applications, Mobile Development, Security & Cryptography.  
+
+  <strong>Languages:</strong> Java, Swift, C, C++, Python, Kotlin.  
+</div>
         <div className="w-fit break-words">
           <Link
-            href="mailto:shivamsharma77607@gmail.com"
+            href="mailto:pereiranathan501@gmail.com"
             target="_blank"
             rel="noreferrer"
             className="hover:text-primary w-full transition-all duration-100 ease-in flex md:items-center gap-2 md:flex-row flex-wrap word-break hover:-translate-y-2"
           >
             <EmailIcon className="w-[30px] h-[30px]" />
-            shivamsharma77607@gmail.com
+            pereiranathan501@gmail.com
           </Link>
         </div>
         <div className="flex gap-5 items-center">
@@ -64,7 +65,7 @@ function About() {
           ))}
         </div>
         <Link
-          href="document/Shivam_Sharma_Resume.pdf"
+          href="document/Nathan_Software_Engineer.pdf"
           target="_blank"
           rel="noreferrer"
           className="w-fit"
